@@ -4,7 +4,7 @@
 - 😷 Pandemic happened, moved back home and worked remotely for one year...
 - 💭 After months of conversation, meditation and prayer, I decided to quit my job and pursue a technical career!
 - 🚀 Started my coding journey in Full Stack Web Development as part of cohort 49 at Lambda School in September 2021!
-... to be continued!
+- ... to be continued!
 
 - 👀 I’m interested in anime, sneakers, fashion, sports, tech, NFT's and cryptocurrency.
 - 🌱 I’m currently learning HTML, CSS, Git and GitHub, and JavaScript as part of Lambda School's Full Stack Web Development course.
