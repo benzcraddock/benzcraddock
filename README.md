@@ -7,7 +7,7 @@
 - ... to be continued!
 
 - 👀 I’m interested in anime, sneakers, fashion, sports, tech, NFT's and cryptocurrency.
-- 🌱 I’m currently learning HTML, CSS, Git and GitHub, and JavaScript as part of Lambda School's Full Stack Web Development course.
+- 🌱 I’m currently learning HTML, CSS, Git and GitHub, JavaScript, ReactJS, Next JS, Tailwind CSS and Firebase as part of Lambda School's Full Stack Web Development course.
 - 🔜 I'll be learning DOM, React, Redux, Node, Python and more in the comming months.
 - 💞️ I’m looking to collaborate on building apps and websites.
 - 📫 How to reach me - Twitter DM (@beny_eth) or Linked In (https://www.linkedin.com/in/benjamin-craddock/)
