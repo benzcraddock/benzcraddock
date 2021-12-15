@@ -7,8 +7,8 @@
 - And the rest is to be continued!
 
 - 👀 I’m interested in NFT's, sneakers, anime, sneakers, fashion, sports, tech, and cryptocurrency.
-- 🌱 I’m currently learning/have learned HTML5, CSS3, Git and GitHub, JavaScript, and ReactJS as part of BloomTech's Full Stack Web Development course, and have dabbled with Solidity, Next.js, Tailwind CSS, Firebase V9 and Authentication during my free time.
-- 🔜 I'll be learning more React, Redux, Node, Python and more in the coming months.
+- 🌱 I’m currently learning/have learned HTML5, CSS3, Git and GitHub, JavaScript, ReactJS, and Redux as part of BloomTech's Full Stack Web Development course, and have learned Solidity, Next.js, Tailwind CSS, Firebase V9 and Authentication outside of BloomTech.
+- 🔜 I'll be learning Node, Python, SQL and more in the coming months.
 - 💞️ I’m looking to collaborate on building apps and websites.
 - 📫 You can reach me via Twitter (@beny_eth) or LinkedIn DM (https://www.linkedin.com/in/benjamin-craddock/)
 
