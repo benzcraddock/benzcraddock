@@ -1,18 +1,15 @@
-- 👋 Hi, I’m Ben :)
-- 🐻‍❄️ I graduated Penn State University in 2019 with an Economics degree and a gained passion for technology and entrepreneurship.
-- 🏙 Post graduation, I lived in NYC for one year and worked for EY in their International Tax and Transaction Advisory practice.
-- 😷 Then, 2020 and the pandemic happened, so I moved back home and worked remotely for one year.
-- 💭 After months of conversation with my family, friends, and mentors, combined with a lot of meditation and prayer, I decided to quit my job and pursue a technical career. 🙀
-- 🚀 I started my programming journey in Full Stack Web Development as part of cohort 49 at Bloom Institute of Technology (formerly known as Lambda School) in September 2021.
-- And the rest is to be continued!
+Hey! Thank you so much for visiting my GitHub profile.
 
-- 👀 I’m interested in NFT's, sneakers, anime, sneakers, fashion, sports, tech, and cryptocurrency.
-- 🌱 I’m currently learning/have learned HTML5, CSS3, Git and GitHub, JavaScript, ReactJS, and Redux as part of BloomTech's Full Stack Web Development course, and have learned Solidity, Next.js, Tailwind CSS, Firebase V9 and Authentication outside of BloomTech.
-- 🔜 I'll be learning Node, Python, SQL and more in the coming months.
-- 💞️ I’m looking to collaborate on building apps and websites.
-- 📫 You can reach me via Twitter (@go2damoon_eth) or LinkedIn DM (https://www.linkedin.com/in/benjamin-craddock/)
+My name is Ben Craddock. I am currently studying Full Stack Web Development and Computer Science at Bloom Institute of Technology (BloomTech, formerly known as Lambda School). Previously, I graduated from Penn State University in 2019 with a degree in Economics and worked for two years as a consultant for EY (Ernst & Young, LLP).
 
-<!---
-benzcraddock/benzcraddock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+During my time at BloomTech and through my independent projects, I have been able to learn and master the following skills:
+
+- Frontend: HTML5, CSS3, JavaScript, React, Redux, Axios, Cypress, Jest, Styled Components, Tailwind CSS, Next.js, Authentication, Vercel, Firebase, and Material UI.
+
+- Backend: Node, Express, SQLiteStudio, PostgreSQL, PgAdmin 4, Postman, HTTPie, JSON, JSON Web Tokens, Authentication, Authorization, Heroku, and Testing.
+
+In addition, I am well versed in Visual Studio Code, Debugging, Git, GitHub, Terminal. Also, I am passionate about Web3, Crypto, and NFT's and am independently learning Solidity to be able to develop smart contracts on the Ethereum Blockhain.
+
+Please reach out to me on LinkedIn if you are interested in connecting: https://www.linkedin.com/in/benjamin-craddock/
+
+Thank you! :)
